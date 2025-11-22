@@ -1,5 +1,5 @@
 # Reporte-2 David Mejía
-Programación de un ESP32 con un sensor de temperatura DHT11
+Programación de un ESP32 con un sensor de temperatura DHT22
 ## Introducción
 ## Descripción
 Utilizaremos l plataforma WOKWI para simular la adquisición de datos de temperatura y humedad del ambiente mediante un sensor DTH11 y la porgramación del mismo en un microcontrolador ESP32
@@ -11,7 +11,7 @@ a. Plataforma WOKWI
 
 b. Tarjeta ESP 32
 
-c. Sensor de temperatura y húmedad modelo DHT11
+c. Sensor de temperatura y húmedad modelo DHT22
 
 ## Instrucciones
 PREVIO
