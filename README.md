@@ -54,6 +54,7 @@ OPERACION
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+https://github.com/Dave-Mejia/Reporte-2/blob/main/Simulacion%20de%20Tarjeta%20ESP%2032%20con%20sensor%20DTH11.png?raw=true
 
 ## Créditos
 Ralizado por el Ingeniero David Mejía
