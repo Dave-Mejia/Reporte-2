@@ -49,10 +49,12 @@ void loop() {
 5. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true).
 
-6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sensor DTH11 y agregar
-![](
+6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
+![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part.png?raw=true)
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part%202.png?raw=true)
-8. Colocar el sensor sobre el esquema de simulación y conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+
+7. Buscar el sensor DTH11 y agregar
+8. Conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
 OPERACION
