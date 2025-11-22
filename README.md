@@ -51,6 +51,7 @@ void loop() {
 
 6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sensor DTH11 y agregar
 ![](
+![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part%202.png?raw=true)
 8. Colocar el sensor sobre el esquema de simulación y conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
