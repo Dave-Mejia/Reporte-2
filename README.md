@@ -42,11 +42,11 @@ void loop() {
 }
 
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
-https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true
+![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true)
 
 6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sesnor DTH11 y agregar
 7. Colocar el sensor sobre el esquema de simulación y conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
-https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true
+![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
 OPERACION
 9. Iniciar simulador dando clic en el icono "play"
@@ -55,7 +55,7 @@ OPERACION
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-https://github.com/Dave-Mejia/Reporte-2/blob/main/Simulacion%20de%20Tarjeta%20ESP%2032%20con%20sensor%20DTH11.png?raw=true
+![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Simulacion%20de%20Tarjeta%20ESP%2032%20con%20sensor%20DTH11.png?raw=true)
 
 ## Créditos
 Ralizado por el Ingeniero David Mejía
