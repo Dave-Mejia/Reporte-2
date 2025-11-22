@@ -18,7 +18,9 @@ PREVIO
 1. Abrir la plataforma WOKWI.
 
 PREPARACION
+
 3. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
+   
 4. Abrir la terminal de programación y colocar la siguente programación:
 
 ```
