@@ -55,7 +55,10 @@ void loop() {
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part%202.png?raw=true)
 
 8. Buscar el sensor DTH11 y agregar
-9. Conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+![](
+
+10. Conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+    
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
 OPERACION
