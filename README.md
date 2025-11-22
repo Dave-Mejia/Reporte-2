@@ -12,9 +12,12 @@ Tarjeta ESP 32
 Sensor de temperatura y húmedad modelo DHT11
 
 ## Instrucciones
+PREVIO
 1. Abrir la plataforma WOKWI.
-2. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
-3. Abrir la terminal de programación y colocar la siguente programación:
+
+PREPARACION
+3. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
+4. Abrir la terminal de programación y colocar la siguente programación:
 
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
@@ -40,5 +43,16 @@ void loop() {
 
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
 5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sesnor DTH11 y agregar
-6. Colocar el sensor sobre el esquema de simulación y 
+6. Colocar el sensor sobre el esquema de simulación y conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+
+OPERACION
+8. Iniciar simulador dando clic en el icono "play"
+9. Visualizar los datos en el monitor serial.
+10. Colocar la temperatura y humedad dando doble click al sensor DHT11
+
+## Resultados
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
+## Créditos
+Ralizado por el Ingeniero David Mejía
 
