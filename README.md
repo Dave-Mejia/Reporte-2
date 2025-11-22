@@ -19,9 +19,9 @@ c. Sensor de temperatura y húmedad modelo DHT22
 
 ### Preparación
 
-3. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
+2. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
    
-4. Abrir la terminal de programación y colocar la siguente programación:
+3. Abrir la terminal de programación y colocar la siguente programación:
 
 ```
 #include "DHTesp.h"
@@ -46,31 +46,31 @@ void loop() {
   delay(1000);
 }
 ```
-5. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
+4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true).
 
-6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
+5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
    
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part.png?raw=true)
 
 
-8. Buscar el sensor DTH22 y agregar
+6. Buscar el sensor DTH22 y agregar
    
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part%202.png?raw=true)
 
-10. Conectar el sensor DTH22 en la tarjeta ESP32 como indica la figura de abajo
+7. Conectar el sensor DTH22 en la tarjeta ESP32 como indica la figura de abajo
     
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
 ## Operacion
 
-9. Iniciar simulador dando clic en el icono "start simulation"
+8. Iniciar simulador dando clic en el icono "start simulation"
    
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/play.png?raw=true)
 
  
-10. Visualizar los datos en el monitor serial.
-11. Colocar la temperatura y humedad dando doble click al sensor DHT22
+9. Visualizar los datos en el monitor serial.
+10. Colocar la temperatura y humedad dando doble click al sensor DHT22
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
