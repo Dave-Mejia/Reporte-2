@@ -54,11 +54,11 @@ void loop() {
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part.png?raw=true)
 
 
-8. Buscar el sensor DTH11 y agregar
+8. Buscar el sensor DTH22 y agregar
    
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Add%20new%20part%202.png?raw=true)
 
-10. Conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+10. Conectar el sensor DTH22 en la tarjeta ESP32 como indica la figura de abajo
     
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
@@ -66,7 +66,7 @@ OPERACION
 
 9. Iniciar simulador dando clic en el icono "start simulation"![](https://github.com/Dave-Mejia/Reporte-2/blob/main/play.png?raw=true)
 10. Visualizar los datos en el monitor serial.
-11. Colocar la temperatura y humedad dando doble click al sensor DHT11
+11. Colocar la temperatura y humedad dando doble click al sensor DHT22
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
