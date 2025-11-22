@@ -7,9 +7,11 @@ Utilizaremos l plataforma WOKWI para simular la adquisición de datos de tempera
 ## Material Necesario
 Para realizar esta practica necesitas lo siguiente
 
-Plataforma WOKWI
-Tarjeta ESP 32
-Sensor de temperatura y húmedad modelo DHT11
+a. Plataforma WOKWI
+
+b. Tarjeta ESP 32
+
+c. Sensor de temperatura y húmedad modelo DHT11
 
 ## Instrucciones
 PREVIO
