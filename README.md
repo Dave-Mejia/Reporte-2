@@ -64,9 +64,13 @@ void loop() {
 
 ## Operacion
 
-9. Iniciar simulador dando clic en el icono "start simulation"![](https://github.com/Dave-Mejia/Reporte-2/blob/main/play.png?raw=true)
-10. Visualizar los datos en el monitor serial.
-11. Colocar la temperatura y humedad dando doble click al sensor DHT22
+9. Iniciar simulador dando clic en el icono "start simulation"
+   
+10. ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/play.png?raw=true)
+
+ 
+11. Visualizar los datos en el monitor serial.
+12. Colocar la temperatura y humedad dando doble click al sensor DHT22
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
