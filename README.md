@@ -46,11 +46,12 @@ https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true
 
 6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sesnor DTH11 y agregar
 7. Colocar el sensor sobre el esquema de simulación y conectar el sensor DTH11 en la tarjeta ESP32 como indica la figura de abajo
+https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true
 
 OPERACION
-8. Iniciar simulador dando clic en el icono "play"
-9. Visualizar los datos en el monitor serial.
-10. Colocar la temperatura y humedad dando doble click al sensor DHT11
+9. Iniciar simulador dando clic en el icono "play"
+10. Visualizar los datos en el monitor serial.
+11. Colocar la temperatura y humedad dando doble click al sensor DHT11
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
