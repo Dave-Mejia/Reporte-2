@@ -63,12 +63,14 @@ void loop() {
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Tarjeta%20ESP32%20con%20sensor%20DTH11.png?raw=true)
 
 OPERACION
+
 9. Iniciar simulador dando clic en el icono "start simulation"![](https://github.com/Dave-Mejia/Reporte-2/blob/main/play.png?raw=true)
 10. Visualizar los datos en el monitor serial.
 11. Colocar la temperatura y humedad dando doble click al sensor DHT11
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Simulacion%20de%20Tarjeta%20ESP%2032%20con%20sensor%20DTH11.png?raw=true)
 
 ## Créditos
