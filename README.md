@@ -19,6 +19,7 @@ PREPARACION
 3. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
 4. Abrir la terminal de programación y colocar la siguente programación:
 
+```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 
@@ -40,7 +41,7 @@ void loop() {
   Serial.println("---");
   delay(1000);
 }
-
+```
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "DHT sensor library for ESPx" y agregarla
 ![](https://github.com/Dave-Mejia/Reporte-2/blob/main/Libreria%20DHT.png?raw=true)
 
