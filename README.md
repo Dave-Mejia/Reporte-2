@@ -1,2 +1,2 @@
-# Reporte-2
-Programacion de sesor de temperatura
+# Reporte-2 David Mejía
+Programación de un ESP32 con un sensor de temperatura DHT11
